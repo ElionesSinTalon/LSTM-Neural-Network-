@@ -57,7 +57,7 @@ Práctica de Inteligencia Artificial: una red neuronal LSTM entrenada con una se
 
 Gráficas generadas por el notebook:
 
-- [curva_loss](curva_loss.png): evolución de `loss` y `val_loss` por época.
+- [curva_loss](curva_loss.png): evolución de `loss` y `val_loss` por época.\\
 -[prediccion_15dias_vs_real](prediccion_15dias_vs_real.png): predicción de los últimos 15 días conocidos contra los valores reales.
 - [prediccion_15dias](prediccion_15dias.png): predicción de los 15 días posteriores al último dato.
 
